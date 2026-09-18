@@ -2,6 +2,12 @@
 
 A self-contained browser edition of the Java Swing Snake game. The web version has no build step, external dependencies, or network assets: open `index.html` locally or publish the repository with GitHub Pages.
 
+## Play Online
+
+**[Open the playable Snake game](https://shanya08-04.github.io/Java-Project/)**
+
+If the link is not live yet, enable GitHub Pages for the `main` branch using the repository settings described below.
+
 ## Files
 
 - `index.html` is the playable GitHub Pages version.
